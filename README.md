@@ -18,7 +18,7 @@ This is the session project
 ![](image.png)
 
 - Login page
-![](image1.png)
+![](/image1.png/image1.png)
 
 - Dashboard 
-![](image2.png)
+![](/images/image2.png)
